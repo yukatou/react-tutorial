@@ -1,0 +1,9 @@
+applications:
+- name: react-tutorial
+disk_quota: 1024M
+memory: 64M
+host: react-tutorial-yukatou
+domain: mybluemix.net
+command: npm start
+path: .
+instances: 1
